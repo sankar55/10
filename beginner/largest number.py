@@ -1,6 +1,6 @@
-a = float(input("Enter first number: "))
-b = float(input("Enter second number: "))
-c = float(input("Enter third number: "))
+a = float(input("Enter the first number: "))
+b = float(input("Enter the second number: "))
+c = float(input("Enter the third number: "))
  
 if (a > b) and (a > c):
    largest = a
